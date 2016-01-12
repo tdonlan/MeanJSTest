@@ -1,0 +1,19 @@
+<section ng-controller="TestModuleController" ng-init="find()">
+  <div class="page-header">
+    <h1>Persons</h1>
+  </div>
+  <button ng-click="sortNames()")>LastName</button><br>
+  <div class="list-group">
+    <a ng-repeat="person in persons"  class="list-group-item">
+
+
+        <span ng-bind="person.firstName"></span> <span ng-bind="person.middleName"></span> <span ng-bind="person.lastName"></span><br>
+        <span ng-bind="person.phone" ></span><br>
+        <span ng-bind="person.email" ></span><br>
+        <span ng-bind="person.address1" ></span><br>
+        <span ng-bind="person.city" ></span>   <span ng-bind="person.state" ></span>    <span ng-bind="person.zip" ></span>
+
+
+    </a>
+  </div>
+</section>
