@@ -1,0 +1,6 @@
+Melee:
+shiv, dirk, knife, jark, splinter, fang, pick, dagger, blade, claw, cestus, katar, fan, gladius, staff, stick, spear, spike, scimitar, cutlass, falchion, kukri, sabre, epee, estoc, flamberge, rapier, katana, claymore, hook, sickle, fist, guantlet, adze, bardiche, Hakapik, mattock, crop, bat, cudgel, truncheon, flail, hammer, sai, shillelagh, scepter, bo, awl, lance, spetum, trident, glaive, halberd, partisan, pollaxe, voulge, grinder,saw,sword, machete, slicer, hatchet, axe, reaper, scythe, pike, club, mace, hacker, curtana, shotel, bullwhip, cat o nine tails, nunchaku, chigriki
+Ranged:
+atlatl, harpoon, javelin, pilum, boomerang, rungu, chakram, shuriken, kunai, dart, tomahawk, bola, bow, composite bow, longbow, arbalest, crossbow, kestros, sling, blowgun, slingshot, lasso
+Guns:
+gun, shooter, shotgun, arquebus, blunderbuss, carbine, fire lance, hand cannon, long gun, musket, pistol, rabauld, wheellock, launcher, cannon, mortar, missile, rifle, shotgun, handgun, revolver, laser, pulsar, plasma, projectile, blaze, lightning, thermal, bloom, beam, catapult, ballista

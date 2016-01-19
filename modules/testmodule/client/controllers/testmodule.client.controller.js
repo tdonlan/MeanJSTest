@@ -14,7 +14,7 @@ angular.module('testmodule').controller('TestModuleController', ['$scope', '$sta
 
     $scope.newPerson = function(){
       $scope.person = NewPerson.get();
-    }
+    };
 
     $scope.sortNames = function(){
       sortAscending = !sortAscending;
@@ -24,7 +24,7 @@ angular.module('testmodule').controller('TestModuleController', ['$scope', '$sta
       else{
         $scope.persons.sort(dynamicSort("-lastName"));
       }
-    }
+    };
 
 
 
@@ -37,7 +37,7 @@ angular.module('testmodule').controller('TestModuleController', ['$scope', '$sta
       return function (a,b) {
         var result = (a[property] < b[property]) ? -1 : (a[property] > b[property]) ? 1 : 0;
         return result * sortOrder;
-      }
+      };
     }
 
   }

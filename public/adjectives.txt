@@ -1,0 +1,4 @@
+Adjectives:
+Super, Awesome, Great, Massive, Powerful, Legendary, Fabled, Superb, Elite, Extravagant, Ornate, Master, Shining, Burnished, Calibrated, Celebrated, Blessed, Superior, Crafted, Dilapidated, Destroyed, Embellished, Faulty, Failing, Fabricated, Godly, Good, Horrible, Holy, Jacked, Killer, Lowly, Lesser, Mighty, Morbid, Malificent, Maledict, Monster, Nice, Opulent, Petty, Pretty, Puny, Rusty, Refurbished, Recycled, Silent, Stately, Unfailing, Unrefined, Violent, Unstoppable
+Adjectives2:
+Fire, Strength, Agility, Accuracy, Toughness, Spirit, Finesse, Toxin, Poison
